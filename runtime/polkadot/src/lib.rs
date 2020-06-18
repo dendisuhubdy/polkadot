@@ -79,7 +79,6 @@ pub use system;
 pub use balances;
 pub use elections_phragmen;
 
-
 /// Constant values used within the runtime.
 pub mod constants;
 use constants::{time::*, currency::*, fee::*};
